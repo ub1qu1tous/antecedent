@@ -45,9 +45,9 @@ vertical-align: middle;
 #header img,#content img,#footer img{display:block}
 
 body {
-background: url(images/topbg.jpg) repeat-x #a28a71;
+background: url(images/topbg.jpg) repeat-x #000;
 color: #000;
-font-family: Verdana, Arial, Helvetica, sans-serif;
+font-family: Helvetica;
 text-align:center; /* centre for ie5.+*/
 display: block;
 line-height: 1.5;
