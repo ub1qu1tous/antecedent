@@ -46,7 +46,7 @@ vertical-align: middle;
 
 body {
 background: url(images/topbg.jpg) repeat-x #a28a71;
-color: #FFFFFF;
+color: #000;
 font-family: Verdana, Arial, Helvetica, sans-serif;
 text-align:center; /* centre for ie5.+*/
 display: block;
@@ -108,7 +108,7 @@ background: url(images/titlebar.jpg) no-repeat;
 height: 30px;
 }
 #content{
-background: #e0f587;
+background: #000;
 min-height:100%;
 height:auto;
 width:600px;
