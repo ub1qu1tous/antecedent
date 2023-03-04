@@ -4,7 +4,7 @@ color:#000;
 }
 a:hover, a:active   {
 text-decoration: underline;
-color:#a28a71;
+color:#000;
 }
 
 h1 {
@@ -13,17 +13,17 @@ padding: 20px 0 0 20px;
 }
 h2 {
 font-size: 13px;
-color: #000;
+color: #FFF;
 padding-top: 5px;
 }
 h3 {
 font-size: 11px;
-color: #a28a71;
+color: #FFF;
 padding-top: 10px;
 }
 p {
 font-size: 10px;
-color: #635631;
+color: #FFF;
 }
 form {
 float: right;
@@ -140,7 +140,7 @@ float: right;
 padding-top: 35px;
 }
 #rightbar p:hover {
-color: #a28a71;
+color: #FFF;
 text-decoration: underline;
 }
 #footer {
@@ -157,7 +157,7 @@ padding-top: 5px;
 color: #FFF;
 }
 #footer a {
-color: #e0f587;
+color: #000;
 }
 #clearfooter{clear:both;height:80px;width:100%} /** Don't touch or the site will die**/
 div>p {margin:0}
